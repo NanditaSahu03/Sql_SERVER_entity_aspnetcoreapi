@@ -1,0 +1,4 @@
+BLRKECSQLE1701,1600
+(LOCALDB)\MSSQLOCALDB (ALL IN SMALL)
+
+ Scaffold-DbContext -Connection "Data Source =(LOCALDB)\MSSQLOCALDB;Initial Catalog=QuickKartEFCore;Integrated Security=true" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
